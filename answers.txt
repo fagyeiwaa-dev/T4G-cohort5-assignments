@@ -26,3 +26,34 @@ Q8. Frontend development focuses on what users see and interact with, while
     Backend development handles servers, databases, and application logic.
     The backend side should check the password against the database because it is more secure and keeps sensitive information protected.
 
+PART 2: Diagram Task
+
+Client (User send request through browser)
+             |
+DNS (Finds the website's IP address)
+             |
+firewall (Checks and filters traffic)
+             |
+Load Balancer(Distributes traffic among servers)
+             |
+Web Server (Receives the HTTP request)
+             |
+Application Server (Processes the business logic)
+             |
+Database (stores and retrieves data)              
+
+Q9. Backend developers need to know the command line because it helps them manage files, run
+    programs, work with servers, and use development tools quickly and efficiently.
+
+Q10. An absolute path starts from the root directory and gives the full location of a file or folder
+     Example: /home/fagyeiwaa898/T4G-cohort5-assignments/answers.txt
+
+     A relative path starts from the current directory.
+     Example: screenshots/task1.png
+
+Q11. I will respond by saying that CLI commands is faster and more powerful than File Explorer.
+      It allows you to peform many tasks quickly and is essential when working with remote servers that do not have a graphical interface.
+
+Q12. The ~ symbol represents the home directory of the current user.
+     The $ symbol shows that the terminal is ready to accept commands from a normal user.
+
