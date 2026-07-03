@@ -1,0 +1,4 @@
+Q1. When I type google.com and press enter, my browser asks the DNS for Google's IP address.
+The browser then sends a request to Google's server, and the server sends the webpage back to my browser for me to see it.
+
+Q2. 
