@@ -1,4 +1,28 @@
 Q1. When I type google.com and press enter, my browser asks the DNS for Google's IP address.
-The browser then sends a request to Google's server, and the server sends the webpage back to my browser for me to see it.
+    The browser then sends a request to Google's server, and the server sends the webpage back to my browser for me to see it.
 
-Q2. 
+Q2. A client is a device that requests information from another computerwhile 
+    A server is a computer that provides information or services to clients.
+    Example of a client: Google Chrome
+    Example of a Server: Google's web servr.
+
+ Q3. DNS stands for Domain Name System. We need it because it changes 
+     website names like google.com into IP addresses that computers understand and it is easier to remember names than numbers.
+
+ Q4. A firewall protects a network by blocking harmful or unauthorized traffic.
+     A load balancer shares incoming traffic among several servers so that one server does not become overloaded.
+
+Q5. A web server receives HTTP requests and serves web pages or static files.
+    An application server runs the application's logic and processes data. 
+    Backend developers work more with application servers because they contain the code that powers the application.
+
+Q6. Clients do not communicate directly with databases because it would expose sensitive data and create security risks.
+    The application server checks requests, applies rules and protect the database.
+
+Q7. A university department page like ug.edu.gh/statistics is more likely to be a static website because the information does not change often.
+    An MTN MOMO account page is dynamic website because it shows information that is different for each customer and changes regularly.
+
+Q8. Frontend development focuses on what users see and interact with, while
+    Backend development handles servers, databases, and application logic.
+    The backend side should check the password against the database because it is more secure and keeps sensitive information protected.
+
